@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+# 대용량 영상·개인 데이터
+uploads/
+samples/
+suspects/
+cache/
+*.mp4
+*.mov
+# 로컬 설정
+.claude/settings.local.json
